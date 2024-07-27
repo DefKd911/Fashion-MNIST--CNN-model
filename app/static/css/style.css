@@ -1,0 +1,17 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 900px;
+}
+
+#uploadedImage {
+    max-height: 300px;
+    object-fit: contain;
+}
+
+.card-img-top {
+    height: 100px;
+    object-fit: cover;
+}
